@@ -16,7 +16,7 @@ Welcome to the portfolio website of **Shruti Chadwal**, a **Front-End Developer*
 
 ## Live Demo
 The live version of the portfolio is hosted on Netlify. You can check it out here:
-[Portfolio Live Link](https://your-live-site-link)
+[Portfolio Live Link](shrutichadwallportfolio.netlify.app)
 
 ---
 
